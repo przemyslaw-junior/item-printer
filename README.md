@@ -6,7 +6,7 @@ Pozwala użytkownikowi wprowadzić listę pozycji (**Item**) wraz z ilością (*
 
 ---
 
-## 🖼 Wygląd aplikacji
+## Wygląd aplikacji
 - Tabela z dwoma kolumnami:
   - **Item** – kod produktu (maks. 12 cyfr)
   - **Qty** – ilość etykiet do wydrukowania (1–99)
